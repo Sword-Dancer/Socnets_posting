@@ -1,0 +1,8 @@
+[submodule "lib/facebook-php-sdk-v4-4.0-dev"]
+	path = lib/facebook-php-sdk-v4-4.0-dev
+	url = https://github.com/facebook/facebook-php-sdk-v4
+	branch = 4.0-dev
+[submodule "lib/twitteroauth-0.5.3"]
+	path = lib/twitteroauth-0.5.3
+	url = https://github.com/abraham/twitteroauth
+	branch = 0.5.3
